@@ -8,12 +8,14 @@ public class AbcPattern {
         char alpha = 'a';
         for (int i = 0; i < 5; i++) {
 
-            for (j = 0; j < i; j++) {
+            for (j = 0; j <= i; j++) {
 //                System.out.print("I: "+ i+"J: "+j);
-                System.out.print(" " + alpha++ + " ");
-            }
+                System.out.print(" " + (alpha++) +" ");
 
+            }
+            System.out.println(j);
             System.out.println(" ");
+
         }
     }
 }

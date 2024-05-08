@@ -8,18 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28914f44-6cea-45b9-b7e7-9ee39c8d34e3" name="Changes" comment="fm">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplyNthTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Playing/ListRemoveUsingObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaRevise_coding/IsCharCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaRevise_coding/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaRevise_coding/countCharOccuurence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartRightAngle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartRightAngle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaRevise_coding/AbcPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRevise_coding/AbcPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaRevise_coding/LambdaEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRevise_coding/LambdaEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaRevise_coding/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRevise_coding/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaRevise_coding/StringBufferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaRevise_coding/StringBufferDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +69,9 @@
       <recent name="C:\Users\nitheshkumar.eshwaran@expleogroup.com\IdeaProjects\DemoJava\src\sortingObjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MiniumElementArray">
-    <configuration name="AbcPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaRevise_coding.AbcPattern" />
+  <component name="RunManager" selected="Application.LongestSubStringWithoutRepeatChars">
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaRevise_coding.LinkedListDemo" />
       <module name="DemoJava" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniumElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaRevise_coding.MiniumElementArray" />
+    <configuration name="LongestSubStringWithoutRepeatChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaRevise_coding.LongestSubStringWithoutRepeatChars" />
       <module name="DemoJava" />
       <extension name="coverage">
         <pattern>
@@ -100,32 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileHandle.ReadFile" />
-      <module name="DemoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileHandle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting" />
+    <configuration name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseSentence" />
       <module name="DemoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitZeroToBeginin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Playing.SplitZeroToBeginin" />
+    <configuration name="StartRightAngle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartRightAngle" />
+      <module name="DemoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaRevise_coding.StringBufferDemo" />
       <module name="DemoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Playing.*" />
+          <option name="PATTERN" value="javaRevise_coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MiniumElementArray" />
-        <item itemvalue="Application.AbcPattern" />
-        <item itemvalue="Application.ReadFile" />
-        <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.SplitZeroToBeginin" />
+        <item itemvalue="Application.LongestSubStringWithoutRepeatChars" />
+        <item itemvalue="Application.ReverseSentence" />
+        <item itemvalue="Application.StartRightAngle" />
+        <item itemvalue="Application.StringBufferDemo" />
+        <item itemvalue="Application.LinkedListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +177,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ReverseSentence.java</url>
-          <line>2</line>
+          <line>5</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -269,6 +259,71 @@
           <url>file://$PROJECT_DIR$/src/DSA/C.java</url>
           <line>25</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/FibonaciSeries.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseSentence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaRevise_coding/LongestSubStringWithoutRepeatChars.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
